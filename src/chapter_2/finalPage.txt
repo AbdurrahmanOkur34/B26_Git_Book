@@ -1,0 +1,10 @@
+
+
+
+so far we leared git
+
+
+commit
+and 
+remote 
+pull 
